@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../header.dart';
 
 class Lobby extends StatelessWidget {
   final String screenName = 'ロビー';
