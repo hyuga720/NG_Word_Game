@@ -19,7 +19,7 @@ class Home extends StatelessWidget {
               onPressed: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => Lobby()), // Lobby画面に遷移
+                  MaterialPageRoute(builder: (context) => LobbyScreen()), // 修正: LobbyScreenに遷移
                 );
               },
               child: Text('Match Start'),

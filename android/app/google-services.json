@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "276215361319",
+    "project_id": "ngwordgame",
+    "storage_bucket": "ngwordgame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276215361319:android:55f81926902b796f900302",
+        "android_client_info": {
+          "package_name": "com.hyuga.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276215361319-c3bb26mg7k1vu8q8q869a46isi4ue6lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOAxEK81XTramAKZv0HP3aQmReWzJhQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276215361319-c3bb26mg7k1vu8q8q869a46isi4ue6lk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "276215361319-1vikapnl5r3j2flbd3mq1iv1tn3quo4r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ngWordGame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
